@@ -6,7 +6,6 @@ I'm a Computer Science Engineering student at Indian Institute of Information Te
 
 ## 🎓 Education
 - B.Tech in Computer Science & Engineering at IIIT Guwahati (2022-2026)
-- CGPA: 8.23/10
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,dart&theme=light)](https://skillicons.dev)
