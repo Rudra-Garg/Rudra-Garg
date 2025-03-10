@@ -23,7 +23,7 @@ I'm a Computer Science Engineering student at Indian Institute of Information Te
 
 ![Rudra-Garg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudra-Garg&theme=tokyonight&hide_border=true)
 
-![Rudra-Garg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Garg&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Rudra-Garg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Garg&theme=tokyonight&show_icons=true&hide_border=true&layout=pie)
 
 ## 📫 Connect with me
 - Email: rudragarg09006@gmail.com
