@@ -63,9 +63,9 @@ A hierarchical reinforcement learning framework for UAV fleet sizing and positio
 
 ## GitHub Stats
 
-![Rudra-Garg's Stats](https://github-readme-stats.vercel.app/api?username=Rudra-Garg&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Rudra-Garg's Stats](https://github-stats-extended.vercel.app/api?username=Rudra-Garg&theme=tokyonight&show_icons=true&hide_border=true)
 
-![Rudra-Garg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Garg&theme=tokyonight&show_icons=true&hide_border=true&layout=pie)
+![Rudra-Garg's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Rudra-Garg&theme=tokyonight&show_icons=true&hide_border=true&layout=pie)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rudra-Garg&color=brightgreen)
 
