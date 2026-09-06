@@ -1,7 +1,5 @@
 ![Rudra Garg header](https://github.com/user-attachments/assets/aa2e6614-51ea-460b-b029-145c44eafe06)
 
-# Hi, I'm Rudra Garg
-
 ### Backend Engineering · Distributed Systems · Applied AI
 
 I build backend services, real-time applications, and systems that connect research with practical engineering. My work spans Python and Go APIs, durable workflows with Temporal, Kubernetes infrastructure, and local AI.
